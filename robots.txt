@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqopuara.github.io/HBV/sitemap_index.txt
+Sitemap: https://uqopuara.github.io/Nnx/sitemap_index.txt
+Sitemap: https://uqopuara.github.io/cpC/sitemap_index.txt
+Sitemap: https://uqopuara.github.io/mUJ/sitemap_index.txt
